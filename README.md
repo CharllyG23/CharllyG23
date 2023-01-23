@@ -2,7 +2,7 @@
   <h2> Olá, Eu sou Charlly Garcia Desenvolvedora Front-end 👋 </h2>
 </div> <br>
 <div align="center">
-Sou Engenheiro em Informatica formado em 2020 na Venezuela 💡, mas moro em Brasil um país vibrante cheio de pessoas espetacularmente diferentes, gosto de ler, assistir filmes interessantes com uma mensagem inspiradora, também gosto de jogar jogos de Shooter, minha banda de música favorita é Imagine Dragons e claro que sou um servo de gatos 🐱.
+Sou Engenheiro em Informatica formado em 2020 na Venezuela 💡 mas moro em Brasil um país vibrante cheio de pessoas espetacularmente diferentes, gosto de ler, assistir filmes interessantes com uma mensagem inspiradora, também gosto de jogar jogos de Shooter, minha banda de música favorita é Imagine Dragons e claro que sou um servo de gatos 🐱.
 </div><br>
 <br>
 
