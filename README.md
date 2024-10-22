@@ -22,12 +22,5 @@ Sou Engenheiro em Informatica formado em 2020 na Venezuela 💡 mas moro em Bras
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
           
 </div> <br>
-  
-<div align="center"> 
-<br>
-<br>
-  <a href="https://www.linkedin.com/in/charlly-figuera-0b16931a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:charllyfiguera21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://dribbble.com/Charlly23" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank"></a> 
-</div>
+
 
