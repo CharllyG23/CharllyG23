@@ -13,10 +13,10 @@
 <br>
 <hr>
 Keywords: • Vue.js Developer • React Developer • Nuxt.js Developer • TypeScript • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance • Optimization • Accessibility 
-
+</div>
+<hr>
 <h2>Tech Stack</h2>
-</div> <br>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//nuxtjs/nuxtjs-original.svg">
@@ -31,7 +31,7 @@ Keywords: • Vue.js Developer • React Developer • Nuxt.js Developer • Typ
 </div> <br>
 
 <h2>Contato</h2>
-</div> <br>
+</div>
 Portfolio: https:// <br>
 LinkedIn: https://www.linkedin.com/in/charlly-garcia-0b16931a5/ <br>
 Email: charllyfiguera21@gmail.com
