@@ -12,7 +12,7 @@
 🎯 Apaixonada por criar soluções que geram valor para usuários e negócios através de código limpo e sustentável.
 <br>
 <hr>
-Keywords: • Vue.js Developer • React Developer • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance • Optimization • Accessibility 
+Keywords: • Vue.js Developer • React Developer • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance • Optimization • Accessibility • Storybook
 </div>
 <hr>
 <h2>Tech Stack</h2>
