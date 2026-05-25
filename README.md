@@ -9,7 +9,7 @@
 
 💡 Tenho experiência com arquitetura frontend, componentização, consumo de APIs, gerenciamento de estado (Pinia/Vuex), interfaces responsivas e boas práticas de engenharia de software.
 
-🎯 Apaixonada por criar soluções que geram valor para usuários e negócios através de código limpo, escalável e sustentável.
+🎯 Apaixonada por criar soluções que geram valor para usuários e negócios através de código limpo e sustentável.
 <br>
 <hr>
 Keywords: • Vue.js Developer • React Developer • Nuxt.js Developer • TypeScript • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance • Optimization • Accessibility 
@@ -18,6 +18,7 @@ Keywords: • Vue.js Developer • React Developer • Nuxt.js Developer • Typ
 </div> <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
