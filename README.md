@@ -1,25 +1,37 @@
 <div align="center">
   <h2> Olá gente!, muito prazer, <br>
-    sou Charlly Garcia Desenvolvedora Front-end 👋 </h2>
+    sou Charlly Garcia Desenvolvedora Front-end Senior 👋 </h2>
 </div> <br>
-<div align="center">
-Sou Engenheiro em Informatica formado em 2020 na Venezuela 💡 mas moro em Brasil um país vibrante cheio de pessoas espetacularmente diferentes, gosto de ler, assistir filmes interessantes com uma mensagem inspiradora, também gosto de jogar jogos de Shooter, minha banda de música favorita é Imagine Dragons e claro que sou um servo de gatos 🐱.
-</div><br>
-<br>
+<div align="left">
+  👋 Olá! Sou Engenheira em Informática e Desenvolvedora Front-end com mais de 5 anos de experiência.
 
-<div align="center">
-  <a href="https://github.com/CharllyG23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charllyG23&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block" align="center"><br>
+🚀 Especializada em Vue.js, NuxtJS Reactjs e TypeScript, atuando no desenvolvimento de aplicações web escaláveis, performáticas e orientadas a produto.
+
+💡 Tenho experiência com arquitetura frontend, componentização, consumo de APIs, gerenciamento de estado (Pinia/Vuex), interfaces responsivas e boas práticas de engenharia de software.
+
+🎯 Apaixonada por criar soluções que geram valor para usuários e negócios através de código limpo, escalável e sustentável.
+<br>
+<hr>
+Keywords: • Vue.js Developer • React Developer • Nuxt.js Developer • TypeScript • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance • Optimization • Accessibility 
+
+<h2>Tech Stack</h2>
+</div> <br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
 </div> <br>
+
+<h2>Contato</h2>
+</div> <br>
+Portfolio: https:// <br>
+LinkedIn: https://www.linkedin.com/in/charlly-garcia-0b16931a5/ <br>
+Email: charllyfiguera21@gmail.com
 
 
