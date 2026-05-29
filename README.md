@@ -1,15 +1,12 @@
 <div align="center">
   <h2> Olá gente!, muito prazer, <br>
-    sou Charlly Garcia Desenvolvedora Front-end Senior 👋 </h2>
+    sou Charlly Garcia Desenvolvedora Front-end Senior</h2>
 </div> <br>
 <div align="left">
   👋 Olá! Sou Engenheira em Informática e Desenvolvedora Front-end com mais de 5 anos de experiência.
 
-🚀 Especializada em Vue.js, NuxtJS Reactjs e TypeScript, atuando no desenvolvimento de aplicações web escaláveis, performáticas e orientadas a produto.
-
+🚀 Especializada em Vue.js, NuxtJS Reactjs e TypeScript, atuando no desenvolvimento de aplicações web escaláveis, performáticas e orientadas a produto. <br>
 💡 Tenho experiência com arquitetura frontend, componentização, consumo de APIs, gerenciamento de estado (Pinia/Vuex), interfaces responsivas e boas práticas de engenharia de software.
-
-🎯 Apaixonada por criar soluções que geram valor para usuários e negócios através de código limpo e sustentável.
 <br>
 <hr>
 Keywords: • Vue.js Developer • React Developer • REST APIs • CI/CD • GitHub Actions • Core Web Vitals • Performance • Optimization • Accessibility • Storybook
@@ -32,7 +29,6 @@ Keywords: • Vue.js Developer • React Developer • REST APIs • CI/CD • G
 
 <h2>Contato</h2>
 </div>
-Portfolio: https:// <br>
 LinkedIn: https://www.linkedin.com/in/charlly-garcia-0b16931a5/ <br>
 Email: charllyfiguera21@gmail.com
 
